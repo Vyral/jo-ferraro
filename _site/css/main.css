@@ -1241,9 +1241,9 @@ html[xmlns] .flexslider .slides {
   .ctalink a {
     text-align: center; }
   .ctalink:hover {
-    background: #fff;
-    color: #055084;
-    border: 1px solid #055084; }
+    background: #f5821f;
+    color: #fff;
+    border: 1px solid #f5821f; }
   .ctalink:active {
     box-shadow: 0 0 0 #055084;
     -webkit-transform: translateY(0rem);
@@ -1258,7 +1258,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #098ce6;
+  -webkit-tap-highlight-color: s;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1294,7 +1294,7 @@ html[xmlns] .flexslider .slides {
       width: 100%;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #098ce6; }
+        color: s; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1303,7 +1303,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #098ce6;
+      background-color: s;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1465,7 +1465,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   -webkit-filter: drop-shadow(0px 2px 7px #055084);
   filter: drop-shadow(0px 2px 7px #055084); }
 
@@ -1675,7 +1675,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #098ce6; }
+    color: #f5821f; }
   a:visited {
     text-decoration: none; }
 
@@ -1686,7 +1686,7 @@ a {
   border: 1px solid #055084;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #098ce6;
+    background: #f5821f;
     border: 1px solid #055084;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1704,8 +1704,8 @@ a {
   border-color: #055084;
   color: #055084; }
   .button-ghost.brand:hover {
-    border-color: #098ce6;
-    color: #098ce6; }
+    border-color: #f5821f;
+    color: #f5821f; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1869,9 +1869,9 @@ table tr, table td {
   font-size: 16px;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: #fff;
-    color: #055084;
-    border: 1px solid #055084; }
+    background: #f5821f;
+    color: #fff;
+    border: 1px solid #f5821f; }
   .readlink > a:active {
     box-shadow: 0 0 0 #055084;
     -webkit-transform: translateY(0rem);
@@ -1967,7 +1967,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #098ce6; }
+      color: #f5821f; }
 
 .post-share {
   text-align: center;
@@ -2094,16 +2094,16 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #098ce6;
+      fill: #f5821f;
       background: transparent;
-      color: #098ce6;
+      color: #f5821f;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #098ce6;
+      box-shadow: 0 0 0 #f5821f;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2116,7 +2116,7 @@ table tr, table td {
     width: 5rem;
     fill: #055084; }
     .about .socials svg:hover {
-      fill: #098ce6; }
+      fill: #f5821f; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2132,7 +2132,7 @@ table tr, table td {
     fill: #055084;
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #098ce6;
+      fill: #f5821f;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2249,9 +2249,9 @@ table tr, table td {
     border: 1px solid #055084;
     transition: 0.3s; }
     .search-box .search-submit:hover {
-      background: #fff;
-      color: #055084;
-      border: 1px solid #055084; }
+      background: #f5821f;
+      color: #fff;
+      border: 1px solid #f5821f; }
     .search-box .search-submit:active {
       box-shadow: 0 0 0 #055084;
       -webkit-transform: translateY(0rem);
@@ -2337,7 +2337,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #f5811e;
+  background: #999;
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
@@ -2365,7 +2365,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #098ce6; }
+    fill: #f5821f; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2447,7 +2447,7 @@ table tr, table td {
     cursor: pointer;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #2ba3f7; }
+      color: #f79d50; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2499,7 +2499,7 @@ form select {
     padding: 1rem;
     border: 3px solid #055084; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #098ce6; }
+      border: 3px solid #f5821f; }
 
 .contact-form {
   width: 75%;
@@ -2556,9 +2556,9 @@ form select {
   cursor: pointer;
   padding: 1rem 1.5rem; }
   #myBtn:hover {
-    background-color: #fff;
-    border: 2px solid #055084;
-    color: #055084; }
+    background-color: #f5821f;
+    border: 2px solid #f5821f;
+    color: #fff; }
 
 @media(max-width: 750) {
   #myBtn {
@@ -2637,7 +2637,7 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px #055084);
