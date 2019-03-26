@@ -37,14 +37,14 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Madison Home Worth?"
+    CTA_title: "What’s Your Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: https://www.allhomesinmadison.com/homevalue/joferraroteam
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Madison Home?"
+    CTA_title2: "Looking for a Home?"
     CTA_text2: "Search the entire MLS for your Madison home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: https://www.allhomesinmadison.com/search
