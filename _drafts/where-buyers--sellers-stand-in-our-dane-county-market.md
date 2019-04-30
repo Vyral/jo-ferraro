@@ -25,4 +25,4 @@ Year to date, our median sale price is up 1.9%, which is great news for sellers.
 
 Interest rates are still down, which is good news for buyers. **If you’re thinking of buying this year, the sooner you act, the better**—we’re entering our prime selling season, and a lot of inventory is poised to enter the market.&nbsp;
 
-If you have any other questions about our market or you’d like to get started on your home buying or selling journey, don’t hesitate to reach out to me. My team and I would love to help you.<br>&nbsp;
+If you have any other questions about our market or you’d like to get started on your home buying or selling journey, don’t hesitate to reach out to me. My team and I would love to help you.
