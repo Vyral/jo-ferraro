@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-30-yt-trailer-np.jpg
+youtube_alternate_image: /uploads/4-30-yt-trailer-np-1.jpg
 youtube_code: QEhdoqS5pIs
 ---
 
