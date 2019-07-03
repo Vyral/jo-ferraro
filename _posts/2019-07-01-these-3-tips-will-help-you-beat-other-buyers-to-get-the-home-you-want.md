@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-1-mos-np.jpg
-youtube_code: HLvqHMZ8zyI
+youtube_code: tqMcip4zb9Q
 ---
 
 {% include youtube.html %}
