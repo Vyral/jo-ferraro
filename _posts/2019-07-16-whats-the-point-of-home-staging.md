@@ -13,7 +13,7 @@ pullquote: Our virtual stagings have had great success.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/7-16-19yt-6.jpg
+youtube_alternate_image: /uploads/7-18-yt.jpg
 youtube_code: V1a2hfeDYDc
 ---
 
