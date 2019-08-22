@@ -29,7 +29,7 @@ One of the more noteworthy charities they participate in is the American Warrior
 
 {% include pullquote.html %}
 
-As far as the market goes, Mike says **interest rates are very low, which means people are able to purchase more home for their money.** They’re also having fewer problems getting buyers approved from a debt-to-income ratio standpoint.&nbsp;
+As far as the market goes, Mike says **interest rates are very low, which means people are able to purchase more home for their money.** They’re also having fewer problems getting buyers approved from a debt-to-income ratio standpoint&nbsp;
 
 Regarding appraisals, there’s not a lot of inventory out there. The supply of homes has gone up since spring, but it’s still a seller’s market. Some listings are generating multiple offers that eventually go above their asking price, and this can cause problems with appraisals. In situations like these, Mike advises his buyer clients that if their accepted offer goes beyond the asking price by any more than a couple thousand dollars, the home’s appraisal may come up short. He also advises them on what their options are if this does happen.&nbsp;
 
