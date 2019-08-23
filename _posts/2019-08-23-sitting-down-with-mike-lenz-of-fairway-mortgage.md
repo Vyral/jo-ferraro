@@ -49,5 +49,5 @@ I’ve worked with Mike for many years, and as a Realtor, I’m very appreciativ
 If you have any more questions for Mike about the topics we discussed today, you can give him a call at (608) 318-4280 or email him at \_\_\_\_\_\_.
 {: .present-before-paste}
 
-As always, if you have any real estate questions for me, feel free to reach out to me as well. I’d love to hear from you.
+As always, if you have any real estate questions for me, feel free to reach out to me as well. I’d love to hear from you
 {: .present-before-paste}
