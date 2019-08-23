@@ -25,7 +25,7 @@ Today I have the pleasure of interviewing Mike Lenz of Fairway Mortgage to talk 
 
 At Fairway Mortgage, they work exclusively with home mortgages, and they concentrate all of their resources on providing clients with the best home buying experience possible. They’re also renowned for giving back to the community and working with local charities, especially those supporting American veterans.&nbsp;
 
-One of the more noteworthy charities they participate in is the American Warrior Initiative, a yearly benefit that raises money for veterans. At the end of the event, they give away two service dogs to veterans that need them. I’ve gone to this event myself, and it’s an amazing and heartfelt experience.
+One of the more noteworthy charities they participate in is the American Warrior Initiative, a yearly benefit that raises money for veterans. At the end of the event, they give away two service dogs to veterans that need them. I’ve gone to this event myself, and it’s an amazing and heartfelt experience
 
 {% include pullquote.html %}
 
