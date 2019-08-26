@@ -46,7 +46,7 @@ I’ve worked with Mike for many years, and as a Realtor, I’m very appreciativ
 **In general, Mike says it’s a great time to purchase,** and Fairway Mortgage is one of the few companies around that can do a 30-day closing. This is handy if you’re looking to move into a new home before the holiday season or into a new school district while we’re still in the early part of the school year.&nbsp;
 {: .present-before-paste}
 
-If you have any more questions for Mike about the topics we discussed today, you can give him a call at (608) 318-4280 or email him at \_\_\_\_\_\_.
+If you have any more questions for Mike about the topics we discussed today, you can give him a call at (608) 318-4280 or email him at mikel@fairwaymc.com.
 {: .present-before-paste}
 
 As always, if you have any real estate questions for me, feel free to reach out to me as well. I’d love to hear from you.
