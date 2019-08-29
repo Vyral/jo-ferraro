@@ -27,4 +27,4 @@ One of the best things you can do for yourself is to **hire an agent who works t
 
 Moreover, **they should advocate for you during the inspection stage, point you to the right lender, and help you select the loan most tailored to your situation.** &nbsp; &nbsp;
 
-If you have any questions or if you'd like more information on picking the best representation for your buying or selling needs, don’t hesitate to give us a call at 608-445-2287 or visit our website at SoldInMadison.com. We hope to hear from you soon\!
+If you have any questions or if you'd like more information on picking the best representation for your buying or selling needs, don’t hesitate to give us a call at 608-445-2287 or visit our website at [SoldInMadison.com](SoldInMadison.com){: target="_blank"}. We hope to hear from you soon\!
