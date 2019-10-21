@@ -19,7 +19,7 @@ youtube_code: DXubn2q4d3Q
 
 {% include youtube.html %}
 
-Are fall and winter good times to buy or sell? Yes, and here’s why.
+<p style="text-align:center;"><em>Are fall and winter good times to buy or sell? Yes, and here’s why.</em></p>
 
 Are the fall and winter good seasons in which to buy or sell a home?
 
