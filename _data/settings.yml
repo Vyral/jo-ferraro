@@ -33,7 +33,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.allhomesinmadison.com/homevalue/joferraroteam
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.allhomesinmadison.com/search
+  second_CTA_URL: https://www.soldinmytown.com/property-search/search-form/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -47,7 +47,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Home?"
     CTA_text2: "Search the entire MLS for your Madison home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.allhomesinmadison.com/search
+    CTA_url2: https://www.soldinmytown.com/property-search/search-form/
 
 lender:
   show_section: false
