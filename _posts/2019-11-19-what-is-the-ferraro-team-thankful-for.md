@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/thanksgiving-youtube.jpg
-youtube_code: KedusAxqMck
+youtube_code: RNJT5a-tNaI
 ---
 
 {% include youtube.html %}
