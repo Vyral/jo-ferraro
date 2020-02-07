@@ -20,7 +20,7 @@ youtube_code: nH3uw5mQ-yI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Do you need to sell your home here in Madison and the surrounding areas? If so, my team and I would love to help you sell your home for the highest possible price.</em></p>
+*Do you need to sell your home here in Madison and the surrounding areas? If so, my team and I would love to help you sell your home for the highest possible price.*
 
 The Ferraro Real Estate Team with eXp Realty has helped thousands of homeowners sell their home for the **highest possible price in the least amount of time**. We take care of all the details so that you can relax.&nbsp;
 
@@ -28,4 +28,4 @@ We have **stagers** who come in to help your house shine and stand above the res
 
 {% include pullquote.html %}
 
-The Madison area is our home too, and we would love to work with you to help sell your home. All you have to do is reach out to me via phone (608-445-2287), text, or email, or you can visit my website at [www.SoldInMadison.com](http://www.soldinmadison.com). I hope to hear from you soon\!
+The Madison area is our home too, and we would love to work with you to help sell your home. All you have to do is reach out to me via phone (608-445-2287), text, or email ([Requests@SoldinMadison.com](mailto:Requests@SoldinMadison.com)), or you can visit my website at [www.SoldInMadison.com](http://www.soldinmadison.com). I hope to hear from you soon\!
