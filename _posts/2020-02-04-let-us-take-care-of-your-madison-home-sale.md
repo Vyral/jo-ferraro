@@ -20,7 +20,7 @@ youtube_code: nH3uw5mQ-yI
 
 {% include youtube.html %}
 
-*Do you need to sell your home here in Madison and the surrounding areas? If so, my team and I would love to help you sell your home for the highest possible price.*
+<p style="text-align: center;"><em>Do you need to sell your home here in Madison and the surrounding areas? If so, my team and I would love to help you sell your home for the highest possible price.</em></p>
 
 The Ferraro Real Estate Team with eXp Realty has helped thousands of homeowners sell their home for the **highest possible price in the least amount of time**. We take care of all the details so that you can relax.&nbsp;
 
